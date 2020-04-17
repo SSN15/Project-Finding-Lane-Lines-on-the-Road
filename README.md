@@ -1,2 +1,1 @@
-# P1
-Automatic Lane finding
+#Project: Finding Lane Lines on the Road
